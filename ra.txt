@@ -2,5 +2,6 @@
   i wil see you soon.
   i will  going to delhi
   this is merge conflict in master 
+  this is merge conflict in demo
   i will se you again
   i will see  you tomorrow
